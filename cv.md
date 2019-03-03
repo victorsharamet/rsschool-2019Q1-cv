@@ -59,3 +59,14 @@ Full Stack Graduate, [Makers Academy](http://www.makersacademy.com/) - ref. prev
 #### Interests
 
 In my spare time you will find me writing readable, maintainable, tested code. You will also find me shamelessly feeding my book addiction, sketching on my art pad, mastering Wing Chun Kung Fu, or swinging from an Aerial hoop in Circus school. If given the tiniest opportunity, I will tell you why Digimon is superior to Pokémon.
+
+#### Appendix
+
+##### [1] Github projects
+
+- **patina**
+  A Node.JS based pattern library generator. Currently work in progress, but it represents a consolidation of how I like to build frontend pattern libraries if left to my own devices! (Naturally as a contractor, I am also an expert at fitting in to *your*way of working.)
+- **conduct.js**
+  This is a JavaScript plugin for registering media query specific callbacks allowing you to run different bits of code at different viewport resolutions. Written during my time at CX Partners.
+- **andymantell.com**
+  Repository for my new work in progress portfolio site. Custom built using Grunt.js to compile XML down to static HTML using XSLT. This will then be hosted on an Amazon S3 bucket for supremely fast response times. Semi-dynamic content such as Twitter feeds, Last.fm recent tracks etc will be pulled down nightly in a cron task running on my Raspberry PI before rebuilding the production site. Note: this is an exercise in learning and trying new things, not necessarily a recommended production setup!
